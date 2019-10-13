@@ -433,15 +433,18 @@
           </div>
         <hr class="clearfix w-100 d-md-none">
         <div class="col-md-2 col-lg-2 text-center mx-auto my-4">
-          <h5 class="font-weight-bold mb-4">Follow Us</h5>
+          <h5 class="font-weight-bold mb-4">Follow Us</h5>                          
            <a href="https://twitter.com">
-            <i class="fab fa-twitter p-2"></i>
+            <img src="https://res.cloudinary.com/dqcsk8rsc/image/upload/v1570731646/TWITTER_mg1deo.svg"
+                                            alt="Twitter">
           </a>
           <a href="https://facebook.com">
-            <i class="fab fa-facebook-f ml-3 p-2"></i>
+            <img src="https://res.cloudinary.com/dqcsk8rsc/image/upload/v1570731646/FACEBOOK_qkehwl.svg"
+                                            alt="Facebook">
           </a>
           <a href="https://dribble.com">
-            <i class="fab fa-dribbble ml-3 p-2"></i>
+            <img src="https://res.cloudinary.com/dqcsk8rsc/image/upload/v1570731646/DRIBBBLE_laibcp.svg"
+                                            alt="Dribble">
           </a>
         </div>
       </div>
